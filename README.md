@@ -3,6 +3,7 @@
 ## Python Review Notes
 [Notes](https://drive.google.com/drive/folders/1qjB9FMWxZHhXOouDr0D22zN7S0-rF4_w?usp=drive_link)
 
+<br></br><br></br>
 ## Swapping Two Words
 **Objective**: Write a Python script to take a string input consisting of exactly two words separated by a single space and print a new string with the words swapped.
 
@@ -20,6 +21,7 @@ String Manipulation
 **Example**
 - For input "hello world", the output should be "world hello".
 
+<br></br><br></br>
 ## Finding the Index of 'f'
 **Objective**: Write a Python script to find the index of the first and last occurrence of the letter 'f' in a given string.
 
@@ -41,6 +43,7 @@ String Manipulation
 - For input "fun", the output should be 0.
 - For input "hello", the output should be -1.
 
+<br></br><br></br>
 ## Removing Characters Between 'h'
 **Objective**: Write a Python script to modify a given string by removing the first and last occurrence of the letter 'h', along with all characters between them.
 
@@ -60,6 +63,7 @@ _ Remove both the first and last 'h', as well as all characters between them.
 - For input "this is a high hill", the output should be "this is a ll".
 - For input "happiness is hard to find", the output should be "ness is hard to find".
 
+<br></br><br></br>
 ## Removing Characters Between 'h'
 **Objective**: Write a Python script to modify a given string by removing the first and last occurrence of the letter 'h', along with all characters between them.
 
